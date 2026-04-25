@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/var/home/Mrpumpkin/Documents/VSC/C/gametest/build/_deps/raylib-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+/var/home/Mrpumpkin/Documents/VSC/C/gametest/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+/var/home/Mrpumpkin/Documents/VSC/C/gametest/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule
+/var/home/Mrpumpkin/Documents/VSC/C/gametest/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule
+/var/home/Mrpumpkin/Documents/VSC/C/gametest/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule
+/var/home/Mrpumpkin/Documents/VSC/C/gametest/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule
+/var/home/Mrpumpkin/Documents/VSC/C/gametest/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule
+/var/home/Mrpumpkin/Documents/VSC/C/gametest/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule
+/var/home/Mrpumpkin/Documents/VSC/C/gametest/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule
+/var/home/Mrpumpkin/Documents/VSC/C/gametest/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule
+/var/home/Mrpumpkin/Documents/VSC/C/gametest/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule
+/var/home/Mrpumpkin/Documents/VSC/C/gametest/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule

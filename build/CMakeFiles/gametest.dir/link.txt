@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/gametest.dir/link.d CMakeFiles/gametest.dir/src/coin.c.o CMakeFiles/gametest.dir/src/main.c.o CMakeFiles/gametest.dir/src/player.c.o -o gametest  _deps/raylib-build/raylib/libraylib.a -lm -lpthread /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl
